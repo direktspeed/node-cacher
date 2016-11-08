@@ -20,12 +20,12 @@
   "author": "Addison Higham <addisonj@gmail.com> (github.com/addisonj)",
   "license": "BSD",
   "dependencies": {
-    "memory-cache": "0.0.5"
+    "memory-cache": "0.1.6"
   },
   "devDependencies": {
-    "mocha": "~1.10.0",
-    "express": "~4.4.5",
-    "supertest": "~0.6.0",
-    "async": "~0.2.9"
+    "mocha": "~3.1.2",
+    "express": "~4.14.0",
+    "supertest": "~2.0.1",
+    "async": "~2.1.2"
   }
 }
