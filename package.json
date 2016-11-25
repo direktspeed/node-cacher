@@ -23,7 +23,7 @@
     "memory-cache": "0.1.6"
   },
   "devDependencies": {
-    "mocha": "~3.1.2",
+    "mocha": "~3.2.0",
     "express": "~4.14.0",
     "supertest": "~2.0.1",
     "async": "~2.1.2"
